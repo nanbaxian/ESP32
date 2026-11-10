@@ -171,6 +171,18 @@ The ESP32-C3 Super Mini supports a wide range of peripherals:
   - Guide: [Read DHT11/DHT22 - Display Values Using Web Server](/docs/examples/ESP32_C3_Super_Mini_with_DHT11_webServer/README.md)
   - Code: [ESP32_C3_Super_Mini_with_DHT11_webServer.ino](/docs/examples/ESP32_C3_Super_Mini_with_DHT11_webServer/ESP32_C3_Super_Mini_with_DHT11_webServer.ino)
 
+### **4. Button LED Serial Demo**:
+
+  **Toggle the onboard LED with the BOOT button and log each press to the Serial Monitor.**
+  - Guide: [Button LED Serial Demo](/docs/examples/Button_LED_Serial_Demo/README.md)
+  - Code: [Button_LED_Serial_Demo.ino](/docs/examples/Button_LED_Serial_Demo/Button_LED_Serial_Demo.ino)
+
+### **5. ESP-IDF Blink Demo**:
+
+  **A minimal ESP-IDF project that blinks the onboard LED and logs to serial.**
+  - Guide: [ESP-IDF Blink Demo](/docs/examples/IDF_Blink_Demo/README.md)
+  - Code: [main.c](/docs/examples/IDF_Blink_Demo/main/main.c)
+
 ---
 
 ## Troubleshooting
